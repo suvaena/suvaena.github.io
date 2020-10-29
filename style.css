@@ -158,6 +158,12 @@ color: white;
     text-decoration: underline;
   text-decoration-color: #469FB8;
    text-underline-position: under;
+}
+
+.boldunderline1{
+    text-decoration: underline;
+  text-decoration-color: #4B4E4E;
+   text-underline-position: under;
 
 }
 
@@ -761,7 +767,7 @@ h1.entry-title {
 .category-filter-list {
     background-color: #4B4E4E;
     padding: 24px 20px;
-    width: 110px;
+    width: 150px;
     display: none;
     position: absolute;
     right: 0;
@@ -1303,7 +1309,7 @@ p.skill-circle-text {
 ====================================== */
 
 .contact-form {
-    padding: 65px;
+    padding: 45px;
     background-color: #469FB8;
 }
 
